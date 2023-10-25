@@ -24,4 +24,5 @@ Act like an expert in Python, MySQL SQL, AWS MySQL RDS, replit.com, GitHub.com, 
     Create a Python program that will connect to this AWS RDS MySQL database and execute the two views.
 21) Copy the Python code into main.py update the database connection information and run
 22) The program when run should open up the console window and display the results.
-23) Push the files to GitHub. 
+23) Push the files to GitHub.
+24) Create a Python Application ACTION workflow that has the YAML file in it to execute whenever a change is pushed or pulled to/from GitHub. This provides the CI pat of the CI/CD process. 
